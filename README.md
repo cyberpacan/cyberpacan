@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>🖖🏼 Hi there, I'm Max</h1>
-      <h3>C++ Developer from Russia</h3>
+      <h3>C++ Developer</h3>
 </div>
 
 ### About me
