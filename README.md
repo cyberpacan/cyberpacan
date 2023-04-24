@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm Max</h1>
+      <h3>C++ Developer from Russia</h3>
+</div>
 
-<!--
-**cyberpacan/cyberpacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- I'm currently learning **Juce and PortAudio**
+- Study some structures and algoritms
+- Speak Russia, English, a little bit German
 
-Here are some ideas to get you started:
+<div id="body">
+    <h3>Languages and tools</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+  title="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+  title="csh" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+   title="py" width="40" height="40"&nbsp;/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+   title="git" width="40" height="40"/>&nbsp;
+          
+          
+</div>
