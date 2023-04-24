@@ -1,12 +1,12 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm Max</h1>
+    <h1>🖖🏼 Hi there, I'm Max</h1>
       <h3>C++ Developer from Russia</h3>
 </div>
 
 ### About me
-- I'm currently learning **Juce and PortAudio**
-- Study some structures and algoritms
-- Speak Russia, English, a little bit German
+- 🌱I'm currently learning **Juce and PortAudio**
+- 🤓Study some structures and algoritms
+- 🌏Speak Russia, English, a little bit German
 
 <div id="body">
     <h3>Languages and tools</h3>
