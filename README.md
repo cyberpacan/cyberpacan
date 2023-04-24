@@ -5,7 +5,7 @@
 
 ### About me
 - 🌱I'm currently learning **Juce and PortAudio**
-- 🤓Study some structures and algoritms
+- 🤓Study some structures and algorithms
 - 🌏Speak Russia, English and a little bit German
 
 <div id="body">
