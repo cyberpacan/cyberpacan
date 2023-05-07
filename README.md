@@ -4,7 +4,7 @@
 </div>
 
 ### About me
-- 🌱I'm currently learning **Juce and PortAudio**
+- 🌱I'm currently learning **Reverse-engineering and cryptography**
 - 🤓Study some structures and algorithms
 - 🌏Speak Russia, English and a little bit German
 
